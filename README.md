@@ -14,10 +14,10 @@ Cataloguing my journey of completing 30 rooms in 30 days on TryHackMe!
   DIFFICULTY: Easy<br/>
   
 ## DAY 2:  <br/>
-  ROOM: <br/>
-  WRITEUP: <br/>
-  BASED ON:  <br/>
-  DIFFICULTY: <br/>
+  ROOM:       Plotted-THM: https://tryhackme.com/room/plottedtms<br/>
+  WRITEUP:    https://sarrafgsarraf.medium.com/thm-plotted-thm-writeup-cc6fe3bb755<br/>
+  BASED ON:   Linux Privilege Escalation, PHP Code Execution, Server Directory BruteForce<br/>
+  DIFFICULTY: Easy<br/>
 
 ## DAY 3:  <br/>
   ROOM: <br/>
