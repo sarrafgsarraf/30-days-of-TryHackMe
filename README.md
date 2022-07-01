@@ -25,22 +25,22 @@ Cataloguing my journey of completing 30 rooms in 30 days on TryHackMe!
   BASED ON:   Enumeration, DirBuster, Linux Privilege Escalation<br/>
   DIFFICULTY: Easy<br/>
 
-## DAY 4:  <br/>
-  ROOM: <br/>
+## DAY 4:<br/>
+  ROOM:       Hydra: https://tryhackme.com/room/hydra<br/>
   WRITEUP: <br/>
-  BASED ON:  <br/>
-  DIFFICULTY: <br/>
+  BASED ON:   Hydra, Brute Forcing network credentials<br/>
+  DIFFICULTY: Easy<br/>
 
 ## DAY 5:  <br/>
-  ROOM: <br/>
+  ROOM:       Buffer Overflow Prep: https://tryhackme.com/room/bufferoverflowprep<br/>
   WRITEUP: <br/>
-  BASED ON:  <br/>
-  DIFFICULTY: <br/>
+  BASED ON:   Stack based buffer overflow<br/>
+  DIFFICULTY: Easy <br/>
 
 ## DAY 6:  <br/>
-  ROOM: <br/>
+  ROOM:       MAL: Malware Introductory: https://tryhackme.com/room/malmalintroductory<br/>
   WRITEUP: <br/>
-  BASED ON:  <br/>
+  BASED ON:   PEID, IDA Freeware, Malware Analysis<br/>
   DIFFICULTY: <br/>
   
 ## DAY 7:<br/>
