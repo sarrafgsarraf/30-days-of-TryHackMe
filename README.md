@@ -1,9 +1,10 @@
 # 30 Days of TryHackMe
 Cataloguing my journey of completing 30 rooms in 30 days on TryHackMe!
 
+Checkout my TryHackMe profile here: https://tryhackme.com/p/sarrafgsarraf
+
 ## DAY 0:<br/>
   ROOM:       Basic Pentesting: https://tryhackme.com/room/basicpentestingjt <br/>
-  WRITEUP: <br/>
   BASED ON:   SSH Bruteforcing, Linux Enumeration, Service Enumeration, Hash Cracking <br/>
   DIFFICULTY: Easy <br/>
   
@@ -27,7 +28,6 @@ Cataloguing my journey of completing 30 rooms in 30 days on TryHackMe!
 
 ## DAY 4:<br/>
   ROOM:       Hydra: https://tryhackme.com/room/hydra<br/>
-  WRITEUP: <br/>
   BASED ON:   Hydra, Brute Forcing network credentials<br/>
   DIFFICULTY: Easy<br/>
 
