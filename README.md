@@ -32,39 +32,39 @@ Checkout my TryHackMe profile here: https://tryhackme.com/p/sarrafgsarraf
   DIFFICULTY: Easy<br/>
 
 ## DAY 5:  <br/>
-  ROOM:       Buffer Overflow Prep: https://tryhackme.com/room/bufferoverflowprep<br/>
-  WRITEUP: <br/>
-  BASED ON:   Stack based buffer overflow<br/>
-  DIFFICULTY: Easy <br/>
-
-## DAY 6:  <br/>
   ROOM:       MAL: Malware Introductory: https://tryhackme.com/room/malmalintroductory<br/>
   WRITEUP: <br/>
   BASED ON:   PEID, IDA Freeware, Malware Analysis<br/>
+  DIFFICULTY: Easy <br/>
+
+## DAY 6:  <br/>
+  ROOM:       https://tryhackme.com/room/blue<br/>
+  WRITEUP: <br/>
+  BASED ON:   EternalBlue, SMB, MS17_010<br/>
   DIFFICULTY: <br/>
   
 ## DAY 7:<br/>
-  ROOM:       <br/>
+  ROOM:      https://tryhackme.com/room/metasploitintro <br/>
   WRITEUP: <br/>
-  BASED ON:   <br/>
+  BASED ON:   MetaSploit Framework, meterpreter, msfvenom<br/>
   DIFFICULTY: <br/>
   
 ## DAY 8: <br/>
-  ROOM:       <br/>
+  ROOM:       https://tryhackme.com/room/crackthehash<br/>
   WRITEUP:   <br/>
-  BASED ON:   <br/>
+  BASED ON:   Password Cracking, JohnTheRipper, hashcat<br/>
   DIFFICULTY: <br/>
   
 ## DAY 9:  <br/>
-  ROOM: <br/>
+  ROOM:       https://tryhackme.com/room/postexploit<br/>
   WRITEUP: <br/>
-  BASED ON:  <br/>
+  BASED ON:   Windows Priviliege Escalation, Post Exploitation, mimikatz, bloodhound<br/>
   DIFFICULTY: <br/>
 
 ## DAY 10:  <br/>
-  ROOM: <br/>
+  ROOM:       https://tryhackme.com/room/meterpreter<br/>
   WRITEUP: <br/>
-  BASED ON:  <br/>
+  BASED ON:   MetaSploit Framework, meterpreter, msfvenom<br/>
   DIFFICULTY: <br/>
 
 ## DAY 11:  <br/>
@@ -80,6 +80,102 @@ Checkout my TryHackMe profile here: https://tryhackme.com/p/sarrafgsarraf
   DIFFICULTY: <br/>
 
 ## DAY 13:  <br/>
+  ROOM: <br/>
+  WRITEUP: <br/>
+  BASED ON:  <br/>
+  DIFFICULTY: <br/>
+  
+## DAY 14:  <br/>
+  ROOM: <br/>
+  WRITEUP: <br/>
+  BASED ON:  <br/>
+  DIFFICULTY: <br/>
+
+## DAY 15:  <br/>
+  ROOM: <br/>
+  WRITEUP: <br/>
+  BASED ON:  <br/>
+  DIFFICULTY: <br/>
+
+## DAY 16:  <br/>
+  ROOM: <br/>
+  WRITEUP: <br/>
+  BASED ON:  <br/>
+  DIFFICULTY: <br/>
+  
+## DAY 17:  <br/>
+  ROOM: <br/>
+  WRITEUP: <br/>
+  BASED ON:  <br/>
+  DIFFICULTY: <br/>
+
+## DAY 18:  <br/>
+  ROOM: <br/>
+  WRITEUP: <br/>
+  BASED ON:  <br/>
+  DIFFICULTY: <br/>
+
+## DAY 19:  <br/>
+  ROOM: <br/>
+  WRITEUP: <br/>
+  BASED ON:  <br/>
+  DIFFICULTY: <br/>
+  
+## DAY 20:  <br/>
+  ROOM: <br/>
+  WRITEUP: <br/>
+  BASED ON:  <br/>
+  DIFFICULTY: <br/>
+
+## DAY 21:  <br/>
+  ROOM: <br/>
+  WRITEUP: <br/>
+  BASED ON:  <br/>
+  DIFFICULTY: <br/>
+
+## DAY 22:  <br/>
+  ROOM: <br/>
+  WRITEUP: <br/>
+  BASED ON:  <br/>
+  DIFFICULTY: <br/>
+  
+## DAY 23:  <br/>
+  ROOM: <br/>
+  WRITEUP: <br/>
+  BASED ON:  <br/>
+  DIFFICULTY: <br/>
+
+## DAY 24:  <br/>
+  ROOM: <br/>
+  WRITEUP: <br/>
+  BASED ON:  <br/>
+  DIFFICULTY: <br/>
+
+## DAY 25:  <br/>
+  ROOM: <br/>
+  WRITEUP: <br/>
+  BASED ON:  <br/>
+  DIFFICULTY: <br/>
+
+## DAY 26:  <br/>
+  ROOM: <br/>
+  WRITEUP: <br/>
+  BASED ON:  <br/>
+  DIFFICULTY: <br/>
+
+## DAY 27:  <br/>
+  ROOM: <br/>
+  WRITEUP: <br/>
+  BASED ON:  <br/>
+  DIFFICULTY: <br/>
+  
+## DAY 28:  <br/>
+  ROOM: <br/>
+  WRITEUP: <br/>
+  BASED ON:  <br/>
+  DIFFICULTY: <br/>
+
+## DAY 29:  <br/>
   ROOM: <br/>
   WRITEUP: <br/>
   BASED ON:  <br/>
