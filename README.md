@@ -38,32 +38,29 @@ Checkout my TryHackMe profile here: https://tryhackme.com/p/sarrafgsarraf
   DIFFICULTY: Easy <br/>
 
 ## DAY 6:  <br/>
-  ROOM:       https://tryhackme.com/room/blue<br/>
-  WRITEUP: <br/>
+  ROOM:       Blue: https://tryhackme.com/room/blue<br/>
   BASED ON:   EternalBlue, SMB, MS17_010<br/>
   DIFFICULTY: <br/>
   
 ## DAY 7:<br/>
-  ROOM:      https://tryhackme.com/room/metasploitintro <br/>
-  WRITEUP: <br/>
+  ROOM:       Metasploit: Introduction: https://tryhackme.com/room/metasploitintro <br/>
   BASED ON:   MetaSploit Framework, meterpreter, msfvenom<br/>
   DIFFICULTY: <br/>
   
 ## DAY 8: <br/>
-  ROOM:       https://tryhackme.com/room/crackthehash<br/>
+  ROOM:       Crack the hash: https://tryhackme.com/room/crackthehash<br/>
   WRITEUP:   <br/>
   BASED ON:   Password Cracking, JohnTheRipper, hashcat<br/>
   DIFFICULTY: <br/>
   
 ## DAY 9:  <br/>
-  ROOM:       https://tryhackme.com/room/postexploit<br/>
+  ROOM:       Post-Exploitation Basics: https://tryhackme.com/room/postexploit<br/>
   WRITEUP: <br/>
   BASED ON:   Windows Priviliege Escalation, Post Exploitation, mimikatz, bloodhound<br/>
   DIFFICULTY: <br/>
 
 ## DAY 10:  <br/>
-  ROOM:       https://tryhackme.com/room/meterpreter<br/>
-  WRITEUP: <br/>
+  ROOM:       Meterpreter: https://tryhackme.com/room/meterpreter<br/>
   BASED ON:   MetaSploit Framework, meterpreter, msfvenom<br/>
   DIFFICULTY: <br/>
 
