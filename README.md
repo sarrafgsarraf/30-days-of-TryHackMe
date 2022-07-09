@@ -33,7 +33,6 @@ Checkout my TryHackMe profile here: https://tryhackme.com/p/sarrafgsarraf
 
 ## DAY 5:  <br/>
   ROOM:       MAL: Malware Introductory: https://tryhackme.com/room/malmalintroductory<br/>
-  WRITEUP: <br/>
   BASED ON:   PEID, IDA Freeware, Malware Analysis<br/>
   DIFFICULTY: Easy <br/>
 
@@ -49,7 +48,6 @@ Checkout my TryHackMe profile here: https://tryhackme.com/p/sarrafgsarraf
   
 ## DAY 8: <br/>
   ROOM:       Crack the hash: https://tryhackme.com/room/crackthehash<br/>
-  WRITEUP:   <br/>
   BASED ON:   Password Cracking, JohnTheRipper, hashcat<br/>
   DIFFICULTY: Easy<br/>
   
@@ -64,94 +62,94 @@ Checkout my TryHackMe profile here: https://tryhackme.com/p/sarrafgsarraf
   DIFFICULTY: Easy<br/>
 
 ## DAY 11:  <br/>
-  ROOM: <br/>
-  WRITEUP: <br/>
+  ROOM:       Game Zome: https://tryhackme.com/room/gamezone<br/>
+  WRITEUP:    SQLMap, Password Cracking, Reverse SSH Tunnel<br/>
   BASED ON:  <br/>
-  DIFFICULTY: <br/>
+  DIFFICULTY: Medium<br/>
 
 ## DAY 12:  <br/>
-  ROOM: <br/>
+  ROOM:       Internal: https://tryhackme.com/room/internal<br/>
   WRITEUP: <br/>
   BASED ON:  <br/>
-  DIFFICULTY: <br/>
+  DIFFICULTY: Medium<br/>
 
 ## DAY 13:  <br/>
-  ROOM: <br/>
+  ROOM:       Relevant: https://tryhackme.com/room/relevant<br/>
   WRITEUP: <br/>
   BASED ON:  <br/>
-  DIFFICULTY: <br/>
+  DIFFICULTY: Medium<br/>
   
 ## DAY 14:  <br/>
-  ROOM: <br/>
+  ROOM:       Evading Logging and Monitoring: https://tryhackme.com/room/monitoringevasion<br/>
   WRITEUP: <br/>
   BASED ON:  <br/>
-  DIFFICULTY: <br/>
+  DIFFICULTY: Medium<br/>
 
 ## DAY 15:  <br/>
-  ROOM: <br/>
+  ROOM:       Attacking ICS Plant #2: https://tryhackme.com/room/attackingics2<br/>
   WRITEUP: <br/>
   BASED ON:  <br/>
-  DIFFICULTY: <br/>
+  DIFFICULTY: Medium<br/>
 
 ## DAY 16:  <br/>
-  ROOM: <br/>
+  ROOM:       Windows Privilege Escalataion: https://tryhackme.com/room/windowsprivesc20<br/>
   WRITEUP: <br/>
   BASED ON:  <br/>
-  DIFFICULTY: <br/>
+  DIFFICULTY: Medium<br/>
   
 ## DAY 17:  <br/>
-  ROOM: <br/>
+  ROOM:       Tshark: https://tryhackme.com/room/tshark<br/>
   WRITEUP: <br/>
   BASED ON:  <br/>
-  DIFFICULTY: <br/>
+  DIFFICULTY: Medium<br/>
 
 ## DAY 18:  <br/>
-  ROOM: <br/>
+  ROOM:       Firewall: https://tryhackme.com/room/redteamfirewalls<br/>
   WRITEUP: <br/>
   BASED ON:  <br/>
-  DIFFICULTY: <br/>
+  DIFFICULTY: Medium<br/>
 
 ## DAY 19:  <br/>
-  ROOM: <br/>
+  ROOM:       The Docker Rodeo: https://tryhackme.com/room/dockerrodeo<br/>
   WRITEUP: <br/>
   BASED ON:  <br/>
-  DIFFICULTY: <br/>
+  DIFFICULTY: Medium<br/>
   
 ## DAY 20:  <br/>
-  ROOM: <br/>
+  ROOM:       The Server from Hell: https://tryhackme.com/room/theserverfromhell<br/>
   WRITEUP: <br/>
   BASED ON:  <br/>
-  DIFFICULTY: <br/>
-
+  DIFFICULTY: Medium<br/>
+  
 ## DAY 21:  <br/>
-  ROOM: <br/>
+  ROOM:       Mr. Robot CTF: https://tryhackme.com/room/mrrobot<br/>
   WRITEUP: <br/>
   BASED ON:  <br/>
-  DIFFICULTY: <br/>
+  DIFFICULTY: Medium<br/>
 
 ## DAY 22:  <br/>
-  ROOM: <br/>
+  ROOM:       NMAP Live Host Discovery: https://tryhackme.com/room/nmap01<br/>
   WRITEUP: <br/>
   BASED ON:  <br/>
-  DIFFICULTY: <br/>
+  DIFFICULTY: Medium<br/>
   
 ## DAY 23:  <br/>
-  ROOM: <br/>
+  ROOM:       Netsec Challenge: https://tryhackme.com/room/netsecchallenge<br/>
   WRITEUP: <br/>
   BASED ON:  <br/>
-  DIFFICULTY: <br/>
+  DIFFICULTY: Medium<br/>
 
 ## DAY 24:  <br/>
-  ROOM: <br/>
+  ROOM:       NMAP Advanced Port Scan: https://tryhackme.com/room/nmap03<br/>
   WRITEUP: <br/>
   BASED ON:  <br/>
-  DIFFICULTY: <br/>
+  DIFFICULTY: Medium<br/>
 
 ## DAY 25:  <br/>
-  ROOM: <br/>
+  ROOM:       File Inclusion: https://tryhackme.com/room/fileinc<br/>
   WRITEUP: <br/>
   BASED ON:  <br/>
-  DIFFICULTY: <br/>
+  DIFFICULTY: Medium<br/>
 
 ## DAY 26:  <br/>
   ROOM: <br/>
