@@ -32,8 +32,8 @@ Checkout my TryHackMe profile here: https://tryhackme.com/p/sarrafgsarraf
   DIFFICULTY: Easy<br/>
 
 ## DAY 5:  <br/>
-  ROOM:       MAL: Malware Introductory: https://tryhackme.com/room/malmalintroductory<br/>
-  BASED ON:   PEID, IDA Freeware, Malware Analysis<br/>
+  ROOM:       Attacking ICS Plant #1: https://tryhackme.com/room/attackingics1<br/>
+  BASED ON:   ModBus Protocol, OT Network, ICS<br/>
   DIFFICULTY: Easy <br/>
 
 ## DAY 6:  <br/>
@@ -87,8 +87,7 @@ Checkout my TryHackMe profile here: https://tryhackme.com/p/sarrafgsarraf
 
 ## DAY 15:  <br/>
   ROOM:       Attacking ICS Plant #2: https://tryhackme.com/room/attackingics2<br/>
-  WRITEUP: <br/>
-  BASED ON:  <br/>
+  BASED ON:   Modbus, Modbus TCP, OT Network, SCADA Exploit<br/>
   DIFFICULTY: Medium<br/>
 
 ## DAY 16:  <br/>
