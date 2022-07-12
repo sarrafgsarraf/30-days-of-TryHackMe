@@ -68,7 +68,7 @@ Checkout my TryHackMe profile here: https://tryhackme.com/p/sarrafgsarraf
 
 ## DAY 12:  <br/>
   ROOM:       Internal: https://tryhackme.com/room/internal<br/>
-  BASED ON:  <br/>
+  BASED ON:   DirBuster, WPScan, Reverse PHP, Hydra, Linux Privilege Escalation<br/>
   DIFFICULTY: Hard<br/>
 
 ## DAY 13:  <br/>
@@ -78,7 +78,7 @@ Checkout my TryHackMe profile here: https://tryhackme.com/p/sarrafgsarraf
   
 ## DAY 14:  <br/>
   ROOM:       Evading Logging and Monitoring: https://tryhackme.com/room/monitoringevasion<br/>
-  BASED ON:  <br/>
+  BASED ON:   Windows Event Logger Tamperring<br/>
   DIFFICULTY: Medium<br/>
 
 ## DAY 15:  <br/>
