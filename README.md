@@ -63,25 +63,21 @@ Checkout my TryHackMe profile here: https://tryhackme.com/p/sarrafgsarraf
 
 ## DAY 11:  <br/>
   ROOM:       Game Zome: https://tryhackme.com/room/gamezone<br/>
-  WRITEUP:    SQLMap, Password Cracking, Reverse SSH Tunnel<br/>
-  BASED ON:  <br/>
+  BASED ON:   SQLMap, Password Cracking, Reverse SSH Tunnel<br/>
   DIFFICULTY: Medium<br/>
 
 ## DAY 12:  <br/>
   ROOM:       Internal: https://tryhackme.com/room/internal<br/>
-  WRITEUP: <br/>
   BASED ON:  <br/>
-  DIFFICULTY: Medium<br/>
+  DIFFICULTY: Hard<br/>
 
 ## DAY 13:  <br/>
   ROOM:       Relevant: https://tryhackme.com/room/relevant<br/>
-  WRITEUP: <br/>
-  BASED ON:  <br/>
+  BASED ON:   Windows Privilege Escalation, seimpersonateprivilege, SMB Enumeration<br/>
   DIFFICULTY: Medium<br/>
   
 ## DAY 14:  <br/>
   ROOM:       Evading Logging and Monitoring: https://tryhackme.com/room/monitoringevasion<br/>
-  WRITEUP: <br/>
   BASED ON:  <br/>
   DIFFICULTY: Medium<br/>
 
